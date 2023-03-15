@@ -1,4 +1,4 @@
-# React-Native-Health-Rings
+# Apple Health Rings - React Native
 
 ## Description
 
