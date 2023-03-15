@@ -28,3 +28,12 @@ What are the steps required to install your project? Provide a step-by-step desc
    ```
    yarn
    ```
+
+## Run the app
+   ```
+   npm run start
+   ```
+   or
+   ```
+   yarn start
+   ```
